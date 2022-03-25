@@ -1,21 +1,23 @@
 # awesome-taxonomies
-A list of all the taxonomies and controlled vocabularies that are used in various different fields.
+
+An attempt to list some of the taxonomies, controlled vocabularies and standard classification systems that are used in various different fields.
 
 If you're looking for a way to categorise your information, you may find inspiration here.
 
 ## List of lists (draft)
 
 - Books (Dewey, etc. NOTE: There are a lot better book systems than Dewey! See [/r/Cataloging](https://www.reddit.com/r/Cataloging) for where librarians hang out)
-- Websites ([Yahoo!](https://en.wikipedia.org/wiki/Yahoo!) hierarchy, etc. What happened to that? Is there an archive? Is there anything more current?)
+- Websites ([Yahoo!](https://en.wikipedia.org/wiki/Yahoo!) hierarchy, etc. What happened to that? Is there an archive? Is there anything more current? TODO)
 - [Biology](https://en.wikipedia.org/wiki/Taxonomy_(biology))
 - Occupation ([ISCO](https://en.wikipedia.org/wiki/International_Standard_Classification_of_Occupations))
 - Industry, e.g. [SIC](https://en.wikipedia.org/wiki/Standard_Industrial_Classification): See **Industry** section below
-- Skin colour (Fitzpatrick scale)
+- Skin colour ([Fitzpatrick scale](https://en.wikipedia.org/wiki/Fitzpatrick_scale))
 - Food (?)
-- Software (?)
+- Software (? TODO)
 
 ### Industry
 
+- [ISO](https://www.iso.org/)
 - [NAICS](https://www.census.gov/naics/) (US Census)
 - [SIC](https://en.wikipedia.org/wiki/Standard_Industrial_Classification) (US)
 - [UKSIC](https://en.wikipedia.org/wiki/United_Kingdom_Standard_Industrial_Classification_of_Economic_Activities) (UK)
