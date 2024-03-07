@@ -6,12 +6,15 @@ If you're looking for a way to categorise your information, you may find inspira
 
 ## List of lists (draft)
 
-- Books (Dewey, etc. NOTE: There are a lot better book systems than Dewey! See [/r/Cataloging](https://www.reddit.com/r/Cataloging) for where librarians hang out)
-- Websites ([Yahoo!](https://en.wikipedia.org/wiki/Yahoo!) hierarchy, etc. What happened to that? Is there an archive? Is there anything more current? TODO)
+- Books (Dewey, etc)
+  - NOTE: There are a lot better book systems than Dewey! See [/r/Cataloging](https://www.reddit.com/r/Cataloging) for where librarians hang out.
+- Websites ([Yahoo!](https://en.wikipedia.org/wiki/Yahoo!) hierarchy, etc.
+  - What happened to that? Is there an archive? Is there anything more current? TODO)
 - [Biology](https://en.wikipedia.org/wiki/Taxonomy_(biology))
-- Occupation ([ISCO](https://en.wikipedia.org/wiki/International_Standard_Classification_of_Occupations))
-- Industry, e.g. [SIC](https://en.wikipedia.org/wiki/Standard_Industrial_Classification): See **Industry** section below
+- Occupation: ([ISCO](https://en.wikipedia.org/wiki/International_Standard_Classification_of_Occupations))
 - Skin colour ([Fitzpatrick scale](https://en.wikipedia.org/wiki/Fitzpatrick_scale))
+- Sound Effects: [universalcategorysystem.com](https://universalcategorysystem.com)
+- Movies: [IMDB](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG)
 - Food (?)
 - Software (? TODO)
 
